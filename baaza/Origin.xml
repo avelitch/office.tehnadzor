@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DacOrigin xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <PackageProperties>
+    <Version>3.1.0.0</Version>
+    <ContainsExportedData>false</ContainsExportedData>
+    <StreamVersions>
+      <Version StreamName="Data">2.0.0.0</Version>
+      <Version StreamName="DeploymentContributors">1.0.0.0</Version>
+    </StreamVersions>
+  </PackageProperties>
+  <Operation>
+    <Identity>ed0ffd6e-7f1a-417d-b474-093f8ee9af32</Identity>
+    <Start>2017-05-03T12:47:49.5745896+00:00</Start>
+    <End>0001-01-01T00:00:00.0000000</End>
+    <ProductName>Microsoft.SqlServer.Dac, Version=13.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</ProductName>
+    <ProductVersion>13.0.3579.1</ProductVersion>
+    <ProductSchema>http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02</ProductSchema>
+  </Operation>
+  <Server>
+    <ServerVersion>Microsoft SQL Azure (RTM) - 12.0.2000.8 
+	Mar 30 2017 01:30:03 
+	Copyright (C) 2016 Microsoft Corporation. All rights reserved.
+</ServerVersion>
+    <ObjectCounts>
+      <DatabaseOptions>1</DatabaseOptions>
+      <ForeignKeyConstraint>4</ForeignKeyConstraint>
+      <Index>6</Index>
+      <PrimaryKeyConstraint>6</PrimaryKeyConstraint>
+      <SimpleColumn>27</SimpleColumn>
+      <Table>6</Table>
+    </ObjectCounts>
+  </Server>
+  <Checksums>
+    <Checksum Uri="/model.xml">CA7B3116E241065F823CEA9AB1F01F20FA786C6C5812421152A6BAE829706ED4</Checksum>
+  </Checksums>
+  <ModelSchemaVersion>2.5</ModelSchemaVersion>
+</DacOrigin>

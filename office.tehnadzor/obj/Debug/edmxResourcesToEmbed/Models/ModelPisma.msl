@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="officeTehnadzordbModelStoreContainer" CdmEntityContainer="officeTehnadzordbEntities">
+    <EntitySetMapping Name="pismas">
+      <EntityTypeMapping TypeName="officeTehnadzordbModel.pisma">
+        <MappingFragment StoreEntitySet="pisma">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="nomerPisma" ColumnName="nomerPisma" />
+          <ScalarProperty Name="date" ColumnName="date" />
+          <ScalarProperty Name="poluchatel" ColumnName="poluchatel" />
+          <ScalarProperty Name="vidPisma" ColumnName="vidPisma" />
+          <ScalarProperty Name="soderzanie" ColumnName="soderzanie" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
